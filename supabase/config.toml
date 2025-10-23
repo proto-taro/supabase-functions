@@ -1,2 +1,2 @@
-[functions]
-  name = "weather-feedback"
+[functions.weather-feedback]
+verify_jwt = false
